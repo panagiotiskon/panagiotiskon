@@ -2,7 +2,7 @@
 
 - 🌱 I’m constantly learning new coding skills and always looking for new things I can dive into.
 
-- 📫 You can reach me through my Linkedin page: www.linkedin.com/in/panagiotis-kontoeidis or DM me via email: panos.kontoeidis@gmail.com
+- 📫 You can reach me through my Linkedin page: www.linkedin.com/in/panagiotis-kontoeidis or DM me via email at panos.kontoeidis@gmail.com
 
 <!---
 panagiotiskon/panagiotiskon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
