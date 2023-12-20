@@ -8,9 +8,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-kontoeidis/)](https://www.linkedin.com/in/panagiotis-kontoeidis)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:panos.kontoeidis@gmail.com)](mailto:panos.kontoeidis@gmail.com)
 
-- 👀 Hello, my name is Panagiotis and I  am a CS student at the University of Athens Dept. of Informatics and Telecommunications.
+-  Hello, my name is Panagiotis and I  am a CS student at the University of Athens Dept. of Informatics and Telecommunications.
+  
+### ⚙️ Some Tool and Tech I use
+<code><img height="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png"></code>
+<code><img height="40" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg"></code>
+<code><img height="40" scr="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png"></code>
+<code><img height="40" scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" ></code>
 
-- 📫 You can reach me through my Linkedin page: www.linkedin.com/in/panagiotis-kontoeidis or DM me via email at panos.kontoeidis@gmail.com
+
 
 <!---
 panagiotiskon/panagiotiskon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
