@@ -19,6 +19,8 @@
 <code> <img height="40" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"></code>
 <code> <img height="40" width="80" src = "https://raw.githubusercontent.com/CGAL/cgal/master/Installation/doc_html/images/cgal_2013_grey.png"></code>
 
+![Panagiotis Kontoeidis's GitHub stats](https://github-readme-stats.vercel.app/api?username=panagiotiskon&show_icons=true&theme=radical)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotiskon&show_icons=true&locale=en&layout=compact" alt="panagiotiskon" /></p>
 <!---
 panagiotiskon/panagiotiskon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
