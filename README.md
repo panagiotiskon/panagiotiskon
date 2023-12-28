@@ -10,7 +10,7 @@
 <p align="center">
    <i>Code is like humor. When you have to explain it, it’s bad.</i>
    <br>
-   <i>Cory House.</i>
+   <i>~Cory House</i>
    <br>
    <br>
    <a target="_blank" href="https://github.com/panagiotiskon"><img src="http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white/"></a>	
