@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=panagiotiskon&show_icons=true&theme=radical" alt="Panagiotis Kontoeidis's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotiskon&show_icons=true&locale=en&layout=compact" alt="Panagiotis Kontoeidis's Top Languages" />
 </div>
-<br>
 <hr>
 <p align="center">
    <i>Code is like humor. When you have to explain it, it’s bad.</i>
