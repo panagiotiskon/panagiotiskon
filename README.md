@@ -5,8 +5,8 @@
 I am passionate about programming and coming up with new projects!**
 
 <div style="display: flex; justify-content: space-between;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=panagiotiskon&show_icons=true&theme=default" alt="Panagiotis Kontoeidis's GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotiskon&show_icons=true&theme=default&locale=en&layout=compact&langs_count=6" alt="Panagiotis Kontoeidis's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panagiotiskon&show_icons=true&theme=default" alt="Panagiotis Kontoeidis's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotiskon&show_icons=true&theme=default&locale=en&layout=compact&langs_count=6" alt="Panagiotis Kontoeidis's Top Languages" />
 </div>
 
 <hr>
