@@ -2,7 +2,9 @@
 <h1>Hi There!, I am <a href="https://github.com/panagiotiskon">Panagiotis Kontoeidis</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 **I am Panagiotis and I am a CS student at the University of Athens Dept. of Informatics and Telecommunications. <br><br>
-I am passionate about programming and coming up with new projects!**
+I am passionate about coding and keeping up with the latest trends**
+
+<i>PS I am also pretty good at fencing.🤺 </i>
 
 <div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panagiotiskon&show_icons=true&theme=default" alt="Panagiotis Kontoeidis's GitHub Stats" />
